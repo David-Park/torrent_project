@@ -9,7 +9,7 @@
 
 #define BUF_SIZE 1024
 void error_handling(char *message);
-
+//test
 int main(int argc, char *argv[])
 {
 	int sock;
